@@ -1,0 +1,38 @@
+/* time and date */
+#time {
+	color: #FF9B9B;
+}
+
+/* weather and greetings */
+#main {
+	color: #8DE8F5;
+}
+
+/* pomodoro */
+#pomodoro_container,
+#pomodoro_container .glass,
+#pomodoro_container #bottomControls {
+	color: #FFE082;
+}
+
+/* search bar and suggestions */
+#sb_container #searchbar,
+#sb_container #sb_empty,
+#sb_container #sb-suggestions {
+	color: #D5B8F5;
+}
+
+/* notes */
+#pocket-editor {
+	color: #FFB49F;
+}
+
+/* quick links */
+#linkblocks {
+	color: #A8E6CF;
+}
+
+/* quotes */
+#quotes_container {
+	color: #FFC978;
+}
